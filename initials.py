@@ -5,7 +5,7 @@
 # Name: Ogyiri Emmanuel Amo
 # STUDENT ID: 2425402808
 # Email: 2425402808@live.gctu.edu.gh
-# Grader: Carolyn
+# Grader: Augustus Backman
 #
 # On my honor, Ogyiri Emmanuel Amo, this programming assignment is my own work
 # and I have not provided this code to any other student.
